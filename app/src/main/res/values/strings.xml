@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ma Lampe magique</string>
+    <string name="Rouge">Rouge</string>
+    <string name="Vert">Vert</string>
+    <string name="Bleu">Bleu</string>
+    <string name="Blanc">Blanc</string>
+    <string name="init" >Couleur initiale ?</string>
+    <string name="Bnt2">+Rouge</string>
+    <string name="Bnt3">-Rouge</string>
+    <string name="Bnt4">+Vert</string>
+    <string name="Bnt5">-Vert</string>
+    <string name="Bnt6">+Bleu</string>
+    <string name="Bnt7">-Bleu</string>
+    <string name="auteur">Auteur : Ludivine Michaud</string>
+    <string name="nom">lampe magique</string>
+</resources>
